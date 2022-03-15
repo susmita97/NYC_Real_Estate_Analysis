@@ -65,13 +65,13 @@ Manhattan in 2021, which are in Midtown West. This is consistent with our
 analysis that Midtown West has most of the expensive properties in
 Manhattan alongside the Upper East and West Sides.
 
-![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2016))
+![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2016).png?raw=true)
 
-![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2017))
+![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2017).png?raw=true)
 
-![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2018))
+![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2018).png?raw=true)
 
-![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2019))
+![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision 2019).png?raw=true)
 
-![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision (2016-2020))
+![alt text](https://github.com/susmita97/NYC_Real_Estate_Analysis/tree/main/images/q1/Manhattan Prices Comparision (2016-2020).png?raw=true)
 
