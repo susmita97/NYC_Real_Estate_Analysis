@@ -65,5 +65,4 @@ Manhattan in 2021, which are in Midtown West. This is consistent with our
 analysis that Midtown West has most of the expensive properties in
 Manhattan alongside the Upper East and West Sides.
 
-![splash screen](images/q1/Manhattan Prices Comparision (2016-2020).png)
 
